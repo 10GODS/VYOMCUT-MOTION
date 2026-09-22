@@ -1,0 +1,14 @@
+*.ipynb
+*.gguf
+*.safetensors
+*.ckpt
+*.pth
+*.bin
+*.pt
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+private/
+internal/
+working/
