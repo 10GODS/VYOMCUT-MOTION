@@ -6,7 +6,7 @@
 
 **Cinematic trailers · Concept films · Brand storytelling · Visual promotion**
 
-[▶ Watch the Demo](media/VYOMCUT_BUSINESS_DEMO.mp4) · [♥ Sponsor the Project](https://github.com/sponsors/10GODS) · [Contact the Studio](https://github.com/10GODS)
+[▶ Watch the Demo](media/VYOMCUT_BUSINESS_DEMO.mp4) · [📊 Demo Benchmark](BENCHMARK.md) · [♥ Sponsor the Project](https://github.com/sponsors/10GODS) · [Contact the Studio](https://github.com/10GODS)
 
 [![VYOMCUT MOTION showcase poster](media/poster.svg)](media/VYOMCUT_BUSINESS_DEMO.mp4)
 
@@ -35,6 +35,22 @@ This is our **public portfolio showcase**—a place to view creative demonstrati
 </div>
 
 The film presents an opening title, cinematic promotional imagery, atmosphere and sound, and a closing presentation card. Its fictional campaign illustrates a possible creative direction; it does not imply that an actual business commissioned or endorsed it.
+
+---
+
+## Demonstration benchmark & industry context
+
+<div align="center">
+
+[![VYOMCUT demonstration audit: 7.54 seconds, 720p export, 24 fps and stereo audio track](media/benchmark.svg)](BENCHMARK.md)
+
+**[📊 Read the full benchmark and published-capability comparison](BENCHMARK.md)**
+
+</div>
+
+The published MP4 was inspected as **one finished, edited trailer**. Its observed properties are **7.542 seconds, 1280×720 export, 24 fps, and an AAC stereo audio track**. Those are output-file measurements, **not** a native generation-resolution claim or an independent quality score.
+
+The benchmark document also sets these observations alongside **published capabilities** of Seedance 2.0, Runway Gen-4.5, Google Veo 3.1, and Kling VIDEO 3.0. **No matched competitor test has been conducted**, so the showcase does not claim that VYOMCUT is faster, higher-quality, cheaper, or superior to those products.
 
 ---
 
