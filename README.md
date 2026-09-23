@@ -6,7 +6,7 @@
 
 **Cinematic trailers · Concept films · Brand storytelling · Visual promotion**
 
-[▶ Watch the Demo](media/VYOMCUT_BUSINESS_DEMO.mp4) · [📊 Demo Benchmark](BENCHMARK.md) · [♥ Sponsor the Project](https://github.com/sponsors/10GODS) · [Contact the Studio](https://github.com/10GODS)
+[▶ Watch the Demo](media/VYOMCUT_BUSINESS_DEMO.mp4) · [📊 Demo Benchmark](BENCHMARK.md) · [📣 Share This Showcase](PROMOTION_KIT.md) · [♥ Sponsor the Project](https://github.com/sponsors/10GODS) · [Contact the Studio](https://github.com/10GODS)
 
 [![VYOMCUT MOTION showcase poster](media/poster.svg)](media/VYOMCUT_BUSINESS_DEMO.mp4)
 
@@ -26,7 +26,7 @@ This is our **public portfolio showcase**—a place to view creative demonstrati
 
 <div align="center">
 
-[![Play the VYOMCUT MOTION demonstration](media/preview.jpg)](media/VYOMCUT_BUSINESS_DEMO.mp4)
+[![Play the VYOMCUT MOTION demonstration](media/preview.svg)](media/VYOMCUT_BUSINESS_DEMO.mp4)
 
 **[▶ Play or download the business demo](media/VYOMCUT_BUSINESS_DEMO.mp4)**
 
@@ -59,7 +59,7 @@ The benchmark document also sets these observations alongside **published capabi
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="media/VYOMCUT_BUSINESS_DEMO.mp4"><img src="media/preview.jpg" alt="VYOMCUT demo video preview" width="100%"/></a><br/>
+      <a href="media/VYOMCUT_BUSINESS_DEMO.mp4"><img src="media/preview.svg" alt="VYOMCUT demo video preview" width="100%"/></a><br/>
       <sub><b>Figure 1.</b> Demonstration video preview</sub>
     </td>
     <td align="center" width="50%">
@@ -83,6 +83,10 @@ The benchmark document also sets these observations alongside **published capabi
 | Short brand-style promo videos | Creative concept films |
 | Atmospheric visual campaigns | Character and environment introductions |
 | Branded title and end screens | Edited showreels and presentation videos |
+
+## Share the showcase
+
+Know someone who commissions short films, cinematic trailers, or creative promotional videos? **[Share the public demo](media/VYOMCUT_BUSINESS_DEMO.mp4)** or use the ready-to-post, fictional-concept-labelled text in the **[public promotion kit](PROMOTION_KIT.md)**. The showcase page has a separate landing-page design in `docs/`, ready for GitHub Pages once the repository owner enables Pages.
 
 ## Collaborate
 
